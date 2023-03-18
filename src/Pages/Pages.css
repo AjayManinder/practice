@@ -1,0 +1,168 @@
+.container{
+   
+    width: 100%;
+    
+    background-color: rgb(228, 244, 244);
+}
+.containerAbout{
+   height: 100vh;
+    width: 100%;
+    padding: 20px;
+    background-color: rgb(229, 248, 248);
+}
+.containerHome{
+    height: fit-content;
+     width: 100%;
+   padding: 20px;
+     background-color: rgb(239, 240, 247);
+ }
+
+ .containerHome2{
+    display: flex;
+    background-color: #ebd5d5;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+    width: 100%;
+    height: 400px;
+    padding: 10px;
+    border: 2px solid rgb(239, 239, 251);
+    border-radius: 10px;
+ }
+
+ .containerHome2Sub{
+    height: 380px;
+    width:49%;
+    padding: 5px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+ }
+
+ .apiHead{
+    width: 100%;
+    height: 180px;
+    background-image: url(https://wallpaper.dog/large/10907018.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+ }
+
+
+.homeHead{
+        display: flex;
+        height: 500px;
+        width: 100%;
+        background-image: url(https://wallpaper.dog/large/10907018.jpg);
+        background-size: cover;
+       justify-content: center;
+       align-items: center;
+       background-position: center;
+  background-repeat: no-repeat;
+   
+}
+
+.homeHeadText{
+    font-size: 25px;
+    color: #325883;
+    font-weight: 900;
+}
+
+.contentContainer{
+padding: 20px;
+    width: 100%;
+    height: 90vh;
+    background-color: rgb(230, 241, 241);
+}
+
+.gridImage{
+    width: 100%;
+    height: 260px;;
+}
+.gridImage1{
+    width: 80%;
+    height: 350px;
+    
+}
+
+.contentDescription{
+    width: 100%;
+    height: 200px;
+    background-color: aliceblue;
+    padding: 20px;
+    text-align: left;
+    margin-top: 10px;
+}
+
+
+
+.arrayStyleContainer{
+
+ display: flex;
+    width: 100%;
+   justify-content: center;
+   align-items: center;
+  flex-wrap: wrap;
+    gap: 20px;
+   
+}
+
+.arrayStyle{
+    margin-top: 30px;
+    cursor: pointer;
+    width: 300px;
+    height: 300px;
+    border: 1px solid black;
+ margin-bottom: 10px;
+    padding: 10px;
+    color: green;
+    background-color: #e3e5f3;
+    margin-left: 5px;
+    box-shadow: rgb(0,0,0,0.44) 0px 5px 5px;
+}
+.arrayStyle:hover{
+    background-color: antiquewhite;
+}
+
+.aboutContent{
+    width: 100%;
+    height: 400px;
+    padding: 30px;
+    background-color: #e3e5f3;
+}
+
+.containerApi{
+    height:max-content;
+    width: 100%;
+    background-color: rgb(229, 245, 245);
+   
+}
+
+
+/* //contact Page */
+
+.contactContainer2{
+    width: 100%;
+    background-color: #b7bbd9;
+    height: 300px;
+
+    
+}
+
+.tableId{
+    /* width: 10px; */
+    background-color: rgb(228, 236, 250);
+}
+
+.tableTitle{
+    /* width: 200px; */
+    background-color:  rgb(223, 232, 248);
+}
+
+.tableBody{
+    /* width:500px; */
+    background-color:  rgb(223, 232, 248);
+}

@@ -1,0 +1,11 @@
+.footerContainer{
+    display: flex;
+    height: 20px;
+    width: 100%;
+    background-color: rgb(218, 249, 231);
+    justify-content: center;
+    align-items: center;
+    bottom: 0px;
+    position: relative;
+    z-index: 999;
+   }
