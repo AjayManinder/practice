@@ -13,10 +13,6 @@ const [name, setName] = useState("ajay");
 const [change, setChange]= useState("");
 
 
-function MyNameChange(){
-    setMyName("maninder");
-}
-
 
     function inc(){
         setAdd(add+1);
@@ -85,24 +81,6 @@ setName("sunny");
 </form>
 
 </div>
-
-
-
-<div className="contactContainer2">
-
-    <div className=" ">hello</div>
-    <div>hi</div>
-    <div>
-        <div style={{marginTop:"20px"}}>my name is {myName}</div>
-        <button onClick={MyNameChange}>
-            ClickMe
-        </button>
-<div>
-        <Link  style={{backgroundColor:"wheat" ,textDecoration:"none"}}> hh</Link>
-        </div>
-    </div>
-</div>
-
 </div>
            
             </>
