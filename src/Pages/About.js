@@ -31,6 +31,7 @@ const About=()=>{
 
     <div> Nathan Strandberg and Katie Kirk are doing what makes them happy, and this is obvious throughout their page.</div>
 </div>
+<div style={{color:"blue"}}> ajay</div>
 </div>
            
             </>
