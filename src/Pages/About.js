@@ -25,7 +25,7 @@ const About=()=>{
 
     <div> Why?</div>
 
-    <div> Because as much as you love good design and inspiring illustrations, you also want to meet the people that curate all the content for you.</div>
+    <div> Because as much as you love good design and inspiring illo want to t the people that curate all the content for you.</div>
 
     <div> Furthermore, it’s equally rewarding when you realize that they are just as eager to start a visual dialogue with you.</div>
 
