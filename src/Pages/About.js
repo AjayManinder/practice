@@ -27,7 +27,7 @@ const About=()=>{
 
     <div> Because as much as you love good design and inspiring illo want to t the people that curate all the content for you.</div>
 
-    <div> Furthermore, it’s equally rewarding when you realize that they are just as eager to start a visual dialogue with you.</div>
+    <div> Furthermore, it’s equally rewarding when you realize that they are just eager to start a visual dialogue with you.</div>
 
     <div> Nathan Strandberg and Katie Kirk are doing what makes them happy, and this is obvious throughout their page.</div>
 </div>
