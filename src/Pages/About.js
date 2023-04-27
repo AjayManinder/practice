@@ -17,9 +17,9 @@ const About=()=>{
         
         <div className="containerAbout">
             <div className="aboutContent">
-    <div>    You had me at “Well hello there.”</div>
+    <div>    You had me at “Well hello there.</div>
 
-    {/* <div> Well, that’s exactly how the About Us section of Eight Hour Day starts – a welcoming greeting.</div>
+    <div> Well, that’s exactly how the About Us section of Eight Hour Day starts – a welcoming greeting.</div>
 
     <div> For that reason, it also made us browse for more.</div>
 
@@ -29,7 +29,7 @@ const About=()=>{
 
     <div> Furthermore, it’s equally rewarding when you realize that they are just eager to start a visual dialogue with you.</div>
 
-    <div> Nathan Strandberg and Katie Kirk are doing what makes them happy, ands throughout their page.</div> */}
+    <div> Nathan Strandberg and Katie Kirk are doing what makes them happy, ands throughout their page.</div>
 </div>
 </div>
            
