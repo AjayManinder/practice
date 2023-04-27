@@ -29,7 +29,7 @@ const About=()=>{
 
     <div> Furthermore, it’s equally rewarding when you realize that they are just eager to start a visual dialogue with you.</div>
 
-    <div> Nathan Strandberg and Katie Kirk are doing what makes them happy, and this is obvious throughout their page.</div>
+    <div> Nathan Strandberg and Katie Kirk are doing what makes them happy, ands throughout their page.</div>
 </div>
 </div>
            
